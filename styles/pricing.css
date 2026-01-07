@@ -3,6 +3,13 @@
 
     & header {
         text-align: center;
+
+        & .title {
+        font-size: 0.75rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--brand-color-primary);
+        }
     }
 
     & .cards {
