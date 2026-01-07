@@ -3,7 +3,7 @@
     background: url(../assets/images/illustration.svg) top/cover;
 }
 
-sections {
+.sections {
     & header {
         & strong {
             display: block;
